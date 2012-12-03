@@ -11,8 +11,7 @@ package SuperMap
 	public class IncludeStream 
 	{
 		public function IncludeStream() 
-		{  
-		
+		{   
 		}
 		public function toString():String
 		{
